@@ -7,6 +7,7 @@ This project is a personal GitHub project that focuses on football analytics. It
 
 In this part, I created professional visualizations to showcase the performance of football players. The visualizations incorporate key statistics from the 2022/23 season, such as minutes played, goals, pass completion, and dribbles. The visualizations are designed to be easily digestible and provide valuable insights into player performance. I utilized web scraping techniques to collect the necessary data and utilized Tableau for creating the visualizations.
 
+<img src="img/radar.png">
 
 ### Part 2: Identifying High Potential Players
 
