@@ -1,12 +1,13 @@
 # Football Analytics Project
 
-This project is a personal GitHub project that focuses on football analytics. It includes various tasks related to data analysis and visualization of football player performance. Please note that this project is an independent effort and is not associated with any specific company or organization.
+This project is a personal GitHub project that focuses on football analytics. It includes various tasks related to data analysis and visualization of football player performance. 
 
 
 ### Part 1: Player Performance Visualization
 
 In this part, I created professional visualizations to showcase the performance of football players. The visualizations incorporate key statistics from the 2022/23 season, such as minutes played, goals, pass completion, and dribbles. The visualizations are designed to be easily digestible and provide valuable insights into player performance. I utilized web scraping techniques to collect the necessary data and utilized Tableau for creating the visualizations.
 
+<img src="img/radar.png">
 
 ### Part 2: Identifying High Potential Players
 
