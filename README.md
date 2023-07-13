@@ -13,6 +13,10 @@ In this part, I created professional visualizations to showcase the performance 
 
 For this part, I analyzed player data from the Premier League and non-league football to identify the best and most high-potential players. I utilized statistical analysis and data visualization to evaluate player performance in key areas such as goals, assists, passing, and dribbling. The aim was to identify young players with exceptional talent and potential for future success.
 
+<img src="img/pl_attack.png">
+
+<img src="img/excess_xg.png">
+
 ### Part 3: Recommending Released Players
 
 In this part, I explored the released players from various clubs in the EFL (Championship down to League Two). I gathered data on these players and assessed their abilities and potential suitability for Future Global Sports. The objective was to identify released players who could benefit from the services provided by Future Global Sports and recommend them as potential clients.
