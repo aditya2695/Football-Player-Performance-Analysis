@@ -1,6 +1,6 @@
 # Football Analytics Project
 
-This project is a personal GitHub project that focuses on football analytics. It includes various tasks related to data analysis and visualization of football player performance. 
+This project is a personal project that focuses on football analytics. It includes various tasks related to data analysis and visualization of football player performance. 
 
 
 ### Part 1: Player Performance Visualization
