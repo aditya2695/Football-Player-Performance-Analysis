@@ -19,7 +19,7 @@ For this part, I analyzed player data from the Premier League and non-league foo
 
 ### Part 3: Recommending Released Players
 
-In this part, I explored the released players from various clubs in the EFL (Championship down to League Two). I gathered data on these players and assessed their abilities and potential suitability for Future Global Sports. The objective was to identify released players who could benefit from the services provided by Future Global Sports and recommend them as potential clients.
+In this part, I explored the released players from various clubs in the EFL (Championship down to League Two). I gathered data on these players and assessed their abilities and potential suitability for Future Global Sports. The objective was to identify released players and recommend them as potential clients to player agents.
 
 ### Dependencies
 
